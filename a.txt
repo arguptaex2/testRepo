@@ -1,2 +1,2 @@
 afs
-new line added
+new line addedNew line is added to this file.
